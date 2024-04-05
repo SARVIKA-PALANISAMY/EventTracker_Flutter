@@ -1,4 +1,4 @@
-# app_demo
+# EventTracker_Flutter
 
 A new Flutter project.
 
